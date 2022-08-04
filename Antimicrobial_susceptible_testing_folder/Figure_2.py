@@ -11,7 +11,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Import Data as a dataframe
-JPIA_MIC_data = pd.read_excel (r'./Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
+JPIA_MIC_data = pd.read_excel (r' ~/Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
 JPIA_MIC_data.head()
 ###E.coli info first
 #Seperate dataframes for E. coli 
