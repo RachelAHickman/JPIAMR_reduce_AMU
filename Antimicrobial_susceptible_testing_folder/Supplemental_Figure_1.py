@@ -155,7 +155,7 @@ ax = supplemental_figure_1_C.ax_heatmap
 ax.set_xticklabels(['AMP', 'FOT', 'COL', 'CIP', 'CHL', 'TMP', 'MERO', 'TGC', 'GEN', 'TAZ'], rotation=0)
 ax.set_ylabel('Bacterial Isolate (labelled by Farm-Source-Isolation media-Colony)')
 ax.set_xlabel('Antibiotic Drug')
-supplemental_figure_1_C.savefig('~/ Antimicrobial_susceptible_testing_folder/supplemental_figure_1_C.png', dpi=300)
+supplemental_figure_1_C.savefig('~/Antimicrobial_susceptible_testing_folder/supplemental_figure_1_C.png', dpi=300)
 
 
 
