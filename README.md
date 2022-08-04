@@ -1,5 +1,5 @@
 # JPIAMR_reduce_AMU 
-This repository to complimemt the publication "Exploring the Antibiotic Resistance Burden in Livestock, Livestock Handlers and Their Non-Livestock Handling Contacts: A One Health Perspective" by Hickman et. 2021
+This repository to complimemt the publication "Exploring the Antibiotic Resistance Burden in Livestock, Livestock Handlers and Their Non-Livestock Handling Contacts: A One Health Perspective" by Hickman et. al 2021
 (https://www.frontiersin.org/articles/10.3389/fmicb.2021.651461/full)
 
 All Genomic data processing was performed on the high computing capacity provided by SNIC through Uppsala Multidisciplinary Centre for Advance Computational Science (UPPMAX). Under the computational project SNIC2019-8-275 and small storage - Uppstore2019121
