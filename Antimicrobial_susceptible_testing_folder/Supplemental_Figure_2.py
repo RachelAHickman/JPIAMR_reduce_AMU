@@ -9,7 +9,7 @@ import pandas as pd
 import seaborn as sns
 
 #Import Data as a dataframe
-JPIA_MIC_data = pd.read_excel (r'./Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
+JPIA_MIC_data = pd.read_excel (r './Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
 JPIA_MIC_data.head()
 #Seperate dataframes for E. coli 
 E_coli = JPIA_MIC_data.loc[JPIA_MIC_data['Iden.'] == 'E.coli']
