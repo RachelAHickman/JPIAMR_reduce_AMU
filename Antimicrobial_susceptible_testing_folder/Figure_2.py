@@ -11,7 +11,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Import Data as a dataframe
-JPIA_MIC_data = pd.read_excel (r' ~/Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
+JPIA_MIC_data = pd.read_excel (r './Antimicrobial_susceptible_testing_folder/antimicrobial_suceptible_raw_data.xlsx')
 JPIA_MIC_data.head()
 ###E.coli info first
 #Seperate dataframes for E. coli 
@@ -241,4 +241,4 @@ ax10.set_ylabel("MIC Value (mg/L)", fontsize=12)
 ax10.get_legend().set_visible(False)
 ax10.axhline(4, ls=':')
 ax10.set_ylim(0,40)   
-plt.savefig('~/Antimicrobial_susceptible_testing_folder/Average_Drug_MIC_plots_with_clincal_breakpoints.png', dpi=300, bbox_inches='tight')
+plt.savefig('./Antimicrobial_susceptible_testing_folder/Average_Drug_MIC_plots_with_clincal_breakpoints.png', dpi=300, bbox_inches='tight')
