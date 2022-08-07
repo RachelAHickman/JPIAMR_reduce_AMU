@@ -30,7 +30,7 @@ Dependencies listed below.
 - Roary (Page et al., 2015)
 - IQ-Tree2 (Quang et al., 2020)
 
-Downstream figure production and visualization was done locally via python scripts.
+Downstream figure production and visualization was done locally via python scripts with the exception of the phylogenetic tree which was produced in iTOL web platform(Letunic and Bork, 2019).
 
 
 
