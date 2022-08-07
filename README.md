@@ -25,7 +25,7 @@ Dependencies listed below.
 - ResFinder (Zankari et al., 2012)
 - PointFinder (Zankari et al., 2017)
 
-4) A core genome maximum likelihood phylogenetic 
+4) A core genome maximum likelihood phylogenetic tree
 - Prokka (Seemann, 2014)
 - Roary (Page et al., 2015)
 - IQ-Tree2 (Quang et al., 2020)
